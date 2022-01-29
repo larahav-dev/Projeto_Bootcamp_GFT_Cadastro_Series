@@ -1,15 +1,18 @@
 # Projeto_Bootcamp_GFT_Cadastro_Series "APP Simples de cadastro de séries em .NET"
 
+
+
 ## Resumo
 
 Estou desenvolvendo este projeto pratico usando as aulas da **DIO** (Digital Innovation One) como base tendo como objetivo o aprendizado de C# e .NET na pratica.
 
 ## Imagens
 
+![Captura de tela 2022-01-29 014647.png](https://github.com/larahav-dev/Projeto_Bootcamp_GFT_Cadastro_Series/blob/main/imagens/Captura%20de%20tela%202022-01-29%20014647.png?raw=true)
 
+![Captura de tela 2022-01-29 014848.png](https://github.com/larahav-dev/Projeto_Bootcamp_GFT_Cadastro_Series/blob/main/imagens/Captura%20de%20tela%202022-01-29%20014848.png?raw=true)
 
-
-
+![Captura de tela 2022-01-29 014945.png](https://github.com/larahav-dev/Projeto_Bootcamp_GFT_Cadastro_Series/blob/main/imagens/Captura%20de%20tela%202022-01-29%20014945.png?raw=true)
 
 ## Descrição
 
@@ -36,5 +39,4 @@ Estou desenvolvendo este projeto pratico usando as aulas da **DIO** (Digital Inn
 
   - https://docs.microsoft.com/pt-br/dotnet/api/system.enum.getvalues?view=netcore-3.1
   - https://docs.microsoft.com/pt-br/dotnet/api/system.enum.getname?view=netcore-3.1
-
 
