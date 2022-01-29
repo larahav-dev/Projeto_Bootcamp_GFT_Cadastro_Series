@@ -1,0 +1,16 @@
+C:\Users\Larah\Desktop\projetos\projeto_series\obj\Debug\net5.0\projeto_series.csproj.AssemblyReference.cache
+C:\Users\Larah\Desktop\projetos\projeto_series\obj\Debug\net5.0\projeto_series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Larah\Desktop\projetos\projeto_series\obj\Debug\net5.0\projeto_series.AssemblyInfoInputs.cache
+C:\Users\Larah\Desktop\projetos\projeto_series\obj\Debug\net5.0\projeto_series.AssemblyInfo.cs
+C:\Users\Larah\Desktop\projetos\projeto_series\obj\Debug\net5.0\projeto_series.csproj.CoreCompileInputs.cache
+C:\Users\Larah\Desktop\projetos\projeto_series\bin\Debug\net5.0\projeto_series.exe
+C:\Users\Larah\Desktop\projetos\projeto_series\bin\Debug\net5.0\projeto_series.deps.json
+C:\Users\Larah\Desktop\projetos\projeto_series\bin\Debug\net5.0\projeto_series.runtimeconfig.json
+C:\Users\Larah\Desktop\projetos\projeto_series\bin\Debug\net5.0\projeto_series.runtimeconfig.dev.json
+C:\Users\Larah\Desktop\projetos\projeto_series\bin\Debug\net5.0\projeto_series.dll
+C:\Users\Larah\Desktop\projetos\projeto_series\bin\Debug\net5.0\ref\projeto_series.dll
+C:\Users\Larah\Desktop\projetos\projeto_series\bin\Debug\net5.0\projeto_series.pdb
+C:\Users\Larah\Desktop\projetos\projeto_series\obj\Debug\net5.0\projeto_series.dll
+C:\Users\Larah\Desktop\projetos\projeto_series\obj\Debug\net5.0\ref\projeto_series.dll
+C:\Users\Larah\Desktop\projetos\projeto_series\obj\Debug\net5.0\projeto_series.pdb
+C:\Users\Larah\Desktop\projetos\projeto_series\obj\Debug\net5.0\projeto_series.genruntimeconfig.cache
